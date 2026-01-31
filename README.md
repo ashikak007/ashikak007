@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashikak007
-- 👀 I’m interested in 👨‍💻Back End Development👨‍💻
-- 🌱 I’m currently learning MCA🏤
+- 👀 I’m interested in 👨‍💻 ARTIFICIAL INTELLIGENCE/MACHINE LEARNING 👨‍💻
+- 🌱 I’m an MCA Graduate 🏤
 - 📫 How to reach me 📧ashikakharimnml7@gmail.com
 
 <!---
